@@ -1,3 +1,10 @@
+# Gloomy Companion - Jaw of the Lion Fork
+
+This fork of the original Gloomy Companion replaces the contend of cards.js, monster_stats.js and scenario.js by the Monsters/Cards/etc. of Gloomhaven Jaw of the Lion.
+
+Below you can find the README of the original Gloomy Companion.
+
+
 # Gloomy Companion
 
 This is a web-app for managing the monster ability decks in the board game [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven)
